@@ -1,0 +1,9 @@
+.container {
+    max-width: 750px;
+  }
+  h1 {
+    font-family: 'Rock Salt', cursive;
+  }
+  p {
+    margin: 25px;
+  }
